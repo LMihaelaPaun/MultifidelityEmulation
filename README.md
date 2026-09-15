@@ -1,1 +1,1 @@
-This folder contains code accompanying the paper "Multifidelity and multivariate emulation versus univariate emulation in statistical inference problems" by L. Mihaela Paun and Dirk Husmeier.
+This folder contains code accompanying the paper "Multifidelity emulation in parameter inference problems: when low-fidelity models are better than high-fidelity counterparts" by L. Mihaela Paun and Dirk Husmeier.
